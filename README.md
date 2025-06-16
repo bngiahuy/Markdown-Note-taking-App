@@ -65,6 +65,7 @@ Then open your browser and navigate to `http://localhost:3000`
 
 ## License
 
+MIT
 
 ## Author
 
